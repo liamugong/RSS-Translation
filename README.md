@@ -12,3 +12,4 @@
 ## 已转换翻译源
 
  - source001 [http://192.3.231.135:1200/reuters/world/china](http://192.3.231.135:1200/reuters/world/china) -> [lutoushe.xml](rss/lutoushe.xml)
+ - source002 [http://192.3.231.135:1200/scmp/4](http://192.3.231.135:1200/scmp/4) -> [nanhuazaobao.xml](rss/nanhuazaobao.xml)
