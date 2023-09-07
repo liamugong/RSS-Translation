@@ -12,4 +12,3 @@
 ## 已转换翻译源
 
  - source001 [http://192.3.231.135:1200/reuters/world/china](http://192.3.231.135:1200/reuters/world/china) -> [lutoushe.xml](rss/lutoushe.xml)
- - source002 [https://feedx.net/rss/economistp.xml](https://feedx.net/rss/economistp.xml) -> [economist.xml](rss/economist.xml)
